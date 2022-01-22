@@ -1,0 +1,12 @@
+<script src="assets-admin/plugins/jquery/jquery.min.js"></script>
+<script src="assets-admin/plugins/bootstrap/popper.min.js"></script>
+<script src="assets-admin/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="assets-admin/plugins/bootstrap-datepicker/moment-with-locales.min.js"></script>
+<script src="assets-admin/plugins/bootstrap-datepicker/bootstrap-datetimepicker.min.js"></script>
+<script src="assets-admin/plugins/datatables/datatables.min.js"></script>
+<script src="assets-admin/plugins/datatables/datatables.bootstrap5.min.js"></script>
+<script src="assets-admin/plugins/jquery-validate/jquery.validate.min.js"></script>
+<script src="assets-admin/plugins/sweetalert/sweetalert.min.js"></script>
+<script src="assets-admin/plugins/star-rating/star-rating.min.js"></script>
+<script src="assets-admin/js/sweetalert-massages.js"></script>
+<script src="assets-admin/js/custom.min.js"></script>
