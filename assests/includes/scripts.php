@@ -1,0 +1,10 @@
+<script src="assets/plugins/jquery/jquery.min.js"></script>
+<script src="assets/plugins/bootstrap/popper.min.js"></script>
+<script src="assets/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="assets/plugins/headroom/headroom.js"></script>
+<script src="assets/plugins/metismenu/metismenu.min.js"></script>
+<script src="assets/plugins/bootstrap-datepicker/moment-with-locales.min.js"></script>
+<script src="assets/plugins/bootstrap-datepicker/bootstrap-datetimepicker.min.js"></script>
+<script src="assets/plugins/jquery-validate/jquery.validate.min.js"></script>
+<script src="assets/plugins/sweetalert/sweetalert.min.js"></script>
+<script src="assets/js/custom.min.js"></script>
